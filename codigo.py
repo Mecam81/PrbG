@@ -1,5 +1,5 @@
-nombre = "camilo"
-apellido = "guerrero"
+nombre = " Juan camilo"
+apellido = "guerrero "
 
 saludo = "Hola " + nombre + " " + apellido + " como estas?" 
 optimus = "Espero que tengas un excelente dia"
